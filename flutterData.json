@@ -1,0 +1,88 @@
+[
+    {
+        "flutter_version": "Flutter 1.7"
+    },
+    {
+        "navBar": [
+            "Docs",
+            "Showcase",
+            "Community"
+        ]
+    },
+    {
+        "description": "Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase."
+    },
+    {
+        "advantages": [
+            {
+                "title": "Fast Development",
+                "description": "Paint your app to life in milliseconds with Stateful Hot Reload. Use a rich set of fully-customizable widgets to build native interfaces in minutes."
+            },
+            {
+                "title": "Expressive and Flexible UI",
+                "description": "Quickly ship features with a focus on native end-user experiences. Layered architecture allows for full customization, which results in incredibly fast rendering and expressive and flexible designs."
+            },
+            {
+                "title": "Native Performance",
+                "description": "Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android."
+            },
+            {
+                "title": "Fast development",
+                "description": "Flutter's hot reload helps you quickly and easily experiment, build UIs, add features, and fix bugs faster. Experience sub-second reload times, without losing state, on emulators, simulators, and hardware for iOS and Android."
+            },
+            {
+                "title": "Expressive, beautiful UIs",
+                "description": "Delight your users with Flutter's built-in beautiful Material Design and Cupertino (iOS-flavor) widgets, rich motion APIs, smooth natural scrolling, and platform awareness."
+            },
+            {
+                "title": "Native Performance",
+                "description": "Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android. Examples of apps built with Flutter Demo design inspired by Aurélien Salomon's Google Newsstand Navigation Pattern"
+            },
+            {
+                "title": "Learn from developers",
+                "description": "Watch these videos to learn from Google and developers as you build with Flutter."
+            },
+            {
+                "title": "Who's using Flutter?",
+                "description": "Organizations around the world are building apps with Flutter."
+            }
+        ]
+    },
+    {
+        "images": [
+            "/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg",
+            "/assets/homepage/carousel/slide_1-bg-4e2fcef9a7343692a5f7784d68241a786c57c79d55f0fe37e6b82a653d146b93.jpg",
+            "/assets/homepage/carousel/slide_1-layer_1-d5abecee7978584303d3e0c8060e79eca6265779eadac5929c651ee0c4ec6a96.png",
+            "/assets/homepage/carousel/slide_1-layer_2-4e252476d8713b772da37f16261bb6d82ac1f4701ce121fab4c33d9c8fa9b17a.png",
+            "/assets/homepage/carousel/phone_bezel-467ab8d838e5e2d2d3f347f766173ccc365220223692215416e4ce7342f2212f.png",
+            "/assets/homepage/carousel/slide_2-bg-ec22a39fb182cb26ec8fb88b30064bc08707d4e87b0e7415c2f077c20d3e6102.jpg",
+            "/assets/homepage/carousel/slide_2-layer_2-3887a10d59280ef18834cc1c5fccf71a2cdbba1a0d9709cba835c5c132d51d24.png",
+            "/assets/homepage/carousel/slide_2-layer_1-ad86c53b3a1957594d6f1053161665e75d02b5d0956613876a745d5c958aa338.png",
+            "/assets/homepage/carousel/phone_bezel-467ab8d838e5e2d2d3f347f766173ccc365220223692215416e4ce7342f2212f.png",
+            "/assets/homepage/carousel/slide_3-bg-8add601bda8d313eaef069c0bad40e4edee018e18777abaf79474f1ab783ca7d.jpg",
+            "/assets/homepage/carousel/slide_3-layer_2-ce93440e79670af9c265271df358f1a85695af8a817648aa2a96bc29177d3b3a.png",
+            "/assets/homepage/carousel/slide_3-layer_1-f550bf7983dd42cf45627a8944dfff1a81d97a944377cf81105c6e622ae72ce4.png",
+            "/assets/homepage/carousel/phone_bezel-467ab8d838e5e2d2d3f347f766173ccc365220223692215416e4ce7342f2212f.png",
+            "/assets/homepage/carousel/slide_4-bg-1bcaa66df37e5707c5c58b38cbf8175902a544905d4c0e81aac5f19ee2caa6cd.jpg",
+            "/assets/homepage/carousel/slide_4-layer_2-7455a67b3c69f4f5f0c3f61322c5216d32ac191fa8ddb393654a87dc67c9ead2.png",
+            "/assets/homepage/carousel/slide_4-layer_1-ae99f72251fd79b7e3ae30b837fb6d6e786527f4e87d93239a583715afabe803.png",
+            "/assets/homepage/carousel/phone_bezel-467ab8d838e5e2d2d3f347f766173ccc365220223692215416e4ce7342f2212f.png",
+            "/assets/homepage/logo-google-fb903d829602dd356c500efc9dddf50b58f227ff1d88373c6caa64f997b663d3.svg",
+            "/assets/homepage/icon-development-02b120c5632de8bcfebaa9af8d93938c403217b5be8d40d596af576c4ed85aa6.svg",
+            "/assets/homepage/icon-ui-5917d09ef0d8f9538615b4281870960b865bba4c8b6926b5adaef91433af0b07.svg",
+            "/assets/homepage/icon-performance-680fb3687109ba7ea0c22627da3a9fa761944ae7b521468003b932aa9133ca5b.svg",
+            "/assets/homepage/icon-development-02b120c5632de8bcfebaa9af8d93938c403217b5be8d40d596af576c4ed85aa6.svg",
+            "/assets/homepage/icon-ui-5917d09ef0d8f9538615b4281870960b865bba4c8b6926b5adaef91433af0b07.svg",
+            "/assets/homepage/icon-performance-680fb3687109ba7ea0c22627da3a9fa761944ae7b521468003b932aa9133ca5b.svg",
+            "/assets/homepage/logo-alibaba-4b9799340fcd69364f2d7d8dacd83c6bc6ac1a2bb24435dae0d70634b025f027.png",
+            "/assets/homepage/logo-hamilton-e5057da8cd75428bb2cb78a7c5fa705c29d26e520ac44a3f8a84b415dc9bad1b.png",
+            "/assets/homepage/logo-google-fb903d829602dd356c500efc9dddf50b58f227ff1d88373c6caa64f997b663d3.svg",
+            "/assets/homepage/logo-tencent-977b6bfa37e34f0ae42cf9f90a5fc9445033dbcafffc23e720706c44088cbd59.png",
+            "/assets/homepage/logo-abbey_road_studios-1de52c4e1af77aff422300944735706c076f95c5b4856c15af777e0a421007f7.png",
+            "/assets/homepage/logo-google_ads-df9e73c682323a2c7456a653de5ccef17224e8933d6b75489dc25a37153e31bd.png",
+            "/assets/homepage/news-1-b6e8b08f3205a8cb0a13beb31b2b5045202e3467a45fa7c688676a13b822d2b2.png",
+            "/assets/homepage/news-2-599aefd56e8aa903ded69500ef4102cdd8f988dab8d9e4d570de18bdb702ffd4.png",
+            "/images/flutter-mono-81x100.png"
+        ]
+    }
+]
